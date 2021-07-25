@@ -5,7 +5,7 @@
 O desafio consiste em construir o Front End de um cadastro de clientes e produtos, estes dados são salvos no localStorage. 
 Evento organizado pela [Gama Academy](https://www.gama.academy "Site da Gama Academy") em parceria com diversos parceiros.
 
-Link do projeto Web: https://van-zacher.netlify.app/
+Link do projeto Web: https://van-zacher-desafio2.netlify.app/
 
 # Tecnologias utilizadas
 
